@@ -1,11 +1,11 @@
 # important-links
 
-1. For Attandance system https://github.com/eisaadil/AttendanceCam
-2. For Finger Print https://github.com/anitaa1990/Biometric-Auth-Sample
-3. For Video calling https://github.com/AgoraIO/Basic-Video-Call
-4. Video trimmer https://github.com/a914-gowtham/Android-video-trimmer
-5. PAste board https://pasteboard.co/
-6. Image Video Editor https://github.com/maulik22995/ImageVideoEditor
-7. Image editor https://github.com/burhanrashid52/PhotoEditor
-8. Image editor https://github.com/iam-mhaseeb/Photo-Editor-App
+1. **For Attandance system** https://github.com/eisaadil/AttendanceCam
+2. **For Finger Print** https://github.com/anitaa1990/Biometric-Auth-Sample
+3. **For Video calling** https://github.com/AgoraIO/Basic-Video-Call
+4. **Video trimmer** https://github.com/a914-gowtham/Android-video-trimmer
+5. **Paste board** https://pasteboard.co/
+6. **Image Video Editor** https://github.com/maulik22995/ImageVideoEditor
+7. **Image editor** https://github.com/burhanrashid52/PhotoEditor
+8. **Image editor** https://github.com/iam-mhaseeb/Photo-Editor-App
 
