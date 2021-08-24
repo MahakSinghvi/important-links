@@ -9,4 +9,6 @@
 7. **Image editor** https://github.com/burhanrashid52/PhotoEditor
 8. **Image editor** https://github.com/iam-mhaseeb/Photo-Editor-App
 9. **To get the paid code** https://codecanyon.net
+10. **Photo editing and other lib in common** https://appscms.com/library/sticker-library-android
+11. 
 
