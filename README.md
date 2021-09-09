@@ -12,4 +12,7 @@
 10. **Photo editing and other lib in common** https://appscms.com/library/sticker-library-android
 11. **Shape images** https://howtodoandroid.com/shapeableimageview-material-components-android/
 12. **Get different shapes** https://creazilla.com/
+13. **IMAGE SHAPE CHANGE LINK** https://www.tuxpi.com/photo-effects/shape-tool
+14. **ADOBE SPARK** https://spark.adobe.com/sp
+15. **FOR VECTOR** https://creazilla.com/sections/1-vectors
 
