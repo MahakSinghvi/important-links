@@ -18,8 +18,7 @@
 16. **FOR UNDRAW** https://undraw.co/
 17. **CUSTOME LIB** https://android-arsenal.com/
 18. **EXPAMLE CODE** http://www.java2s.com/ 
-19. **FOR CODE SPINNET** https://rosemoe.github.io/2021/08/22/editor-get-started/
-https://github.com/kbiakov/CodeView-Android
+19. **FOR CODE SPINNET** https://rosemoe.github.io/2021/08/22/editor-get-started/ <br />https://github.com/kbiakov/CodeView-Android<br />
 https://github.com/Rosemoe/CodeEditor
 
 ![alt text](images/code_spinnet.png)
