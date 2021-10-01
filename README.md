@@ -23,6 +23,6 @@ https://github.com/Rosemoe/CodeEditor
 
 ![alt text](images/code_spinnet.png)
 
-20. 
+20. **TO GET SHA** </br> keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore | openssl sha1 -binary | openssl base64
 
 
