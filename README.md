@@ -30,3 +30,10 @@ Refer these document : </br>https://developers.google.com/maps/documentation/pla
 
 22. **Change APK name** </br>Use these to change the name of apk while creating build</br></br>*Normally* : Go to App level gradle [build.grade(:app)] -->  defaultConfig</br>archivesBaseName = "$applicationId-v$versionCode($versionName)"</br>these will return "packagename-v1(1.0).apk"</br></br>*Other way* : If you don't want to show package name simply use</br>archivesBaseName = "AnyCustomizeName-v$versionCode($versionName)"</br>these will return "name-v1(1.0).apk" </br>
 ![alt text](images/changeApkName.png)
+
+23. **Spark Animation** </br>For spark animation </br>
+Android github.com/varunest/SparkButton </br>
+iOS github.com/janselv/fave-button  </br>
+github.com/alexsteinerde/Spark-ImageView </br>
+24.
+25. 
