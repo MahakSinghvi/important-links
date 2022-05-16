@@ -25,7 +25,7 @@ https://github.com/Rosemoe/CodeEditor
 
 20. **TO GET SHA1** </br> keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore | openssl sha1 -binary | openssl base64 </br>keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
 
-21. **GOOGLE PLACE API** </br>In future if u need to get the places without Google Place SDKfvgfd, 
+21. **GOOGLE PLACE API** </br>In future if u need to get the places without Google Place SDK, 
 Refer these document : </br>https://developers.google.com/maps/documentation/places/web-service/autocomplete#maps_http_places_autocomplete_pt_br-java </br>For exapmle : https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Frei&types=(regions)&key=5 </br>**GET METHOD** </br>input:Frei </br>types:(regions) </br>key: 
 
 22. **Change APK name** </br>Use these to change the name of apk while creating build</br></br>*Normally* : Go to App level gradle [build.grade(:app)] -->  defaultConfig</br>archivesBaseName = "$applicationId-v$versionCode($versionName)"</br>these will return "packagename-v1(1.0).apk"</br></br>*Other way* : If you don't want to show package name simply use</br>archivesBaseName = "AnyCustomizeName-v$versionCode($versionName)"</br>these will return "name-v1(1.0).apk" </br>
